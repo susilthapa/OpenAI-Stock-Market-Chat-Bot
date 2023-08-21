@@ -1,2 +1,4 @@
 venv
 AppV4/.env
+**/__pycache__
+**/MASTER.db
